@@ -1,8 +1,8 @@
-# gatsby-wordpress-theme-libre
+# gatsby-wordpress-balsa-starter
 
-A Gatsby theme plugin for creating blogs from headless WordPress CMS.
+A Gatsby starter for creating blogs from headless WordPress CMS with Balsa theme from Draftbox.
 
-Turn your WordPress blog into a lightning fast static website. This Gatsby theme is a frontend replacement of the WordPress engine featuring the standard Libre 2 skin and functionality. All content is sourced from a headless WordPress CMS.
+Turn your WordPress blog into a lightning fast static website. This Gatsby theme is a frontend replacement of the WordPress engine featuring the Balsa theme skin and functionality. All content is sourced from a headless WordPress CMS.
 
 ## Demo
 
@@ -10,7 +10,7 @@ Play with the [Demo](https://gatsby-wordpress-libre.netlify.com/) to get a first
 
 ## Features
 
-- WordPress Libre 2 skin
+- Balsa UI from Draftbox
 - SEO optimized
 - Fully responsive
 - Composable and extensible
@@ -21,7 +21,7 @@ Play with the [Demo](https://gatsby-wordpress-libre.netlify.com/) to get a first
 1. Install this starter by running
 
    ```bash
-   gatsby new wp-starter https://github.com/armada-inc/gatsby-wordpress-libre-starter
+   gatsby new wp-starter https://github.com/draftbox-co/gatsby-wordpress-balsa-starter
    ```
 
 2. Change directory
