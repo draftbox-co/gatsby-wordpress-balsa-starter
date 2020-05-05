@@ -6,7 +6,7 @@ Turn your WordPress blog into a lightning fast static website. This Gatsby theme
 
 ## Demo
 
-Play with the [Demo](https://gatsby-wordpress-libre.netlify.com/) to get a first impression.
+Play with the [Demo](https://gatsby-wordpress-balsa-starter.now.sh/) to get a first impression.
 
 ## Features
 
