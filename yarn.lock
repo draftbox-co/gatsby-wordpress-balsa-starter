@@ -990,10 +990,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@draftbox-co/gatsby-wordpress-balsa-theme@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-balsa-theme/-/gatsby-wordpress-balsa-theme-1.0.3.tgz#5d88ed854e514d410dde78f3f447b144b743b383"
-  integrity sha512-71jqB42xf3VaZAetqddCESuAcx6jBYagH3aYmg122GH4msSorPl3JMYwrj9KhWVkPlTSgx/GMzP23zJhQ4mtcw==
+"@draftbox-co/gatsby-wordpress-balsa-theme@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-balsa-theme/-/gatsby-wordpress-balsa-theme-1.0.4.tgz#4a50f881742471c2f76ec87b1c0a82e4183174c6"
+  integrity sha512-2ryrfF5a59OjKRbTX8McwtxahNXlxd3m1Z3bwppyhMc3U2+GcoCd9l9hjVDJ8zy8YLfkbnJMx9E71/peDOZ3pA==
   dependencies:
     "@armada-inc/gatsby-plugin-amp" "^0.2.3"
     "@tryghost/helpers" "^1.1.22"
