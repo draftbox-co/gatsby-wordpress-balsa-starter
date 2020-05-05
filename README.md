@@ -128,4 +128,4 @@ After completion of the build process your static site can be found in the `publ
 
 # Copyright & License
 
-Copyright (c) 2020 Armada Intelligence Inc - Released under the [MIT license](LICENSE).
+Copyright (c) 2020 Draftbox Intelligence Inc - Released under the [MIT license](LICENSE).
