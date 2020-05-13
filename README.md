@@ -1,18 +1,33 @@
+[![Draftbox](https://res.cloudinary.com/thinkcdnimages/image/upload/v1589291053/Draftbox/draftbox-for-github.svg)](https://draftbox.co)
+
 # gatsby-wordpress-balsa-starter
 
 A Gatsby starter for creating blogs from headless WordPress CMS with Balsa theme from Draftbox.
 
 Turn your WordPress blog into a lightning fast static website. This Gatsby theme is a frontend replacement of the WordPress engine featuring the Balsa theme skin and functionality. All content is sourced from a headless WordPress CMS.
 
+> This starter is being used at [Draftbox](https://draftbox.co). Get lightning fast, secure front-end for your WordPress or Ghost blog, in 5 minutes or less, without coding. For our fellow devs, we also provide code export feature.
+
 ## Demo
 
-Play with the [Demo](https://gatsby-wordpress-balsa-starter.now.sh/) to get a first impression.
+Play with the [Demo](https://wordpress-balsa.draftbox.co/) to get a first impression.
 
 ## Features
 
-- Balsa UI from Draftbox
+- Balsa Skin from Draftbox
 - SEO optimized
 - Fully responsive
+- Gatsby images
+- Styled 404 page
+- RSS Feed
+- AMP Pages
+- Sitemap
+- Contact Form
+- Subscribe Form
+- Social Sharing
+- Google Analytics Integration
+- Segment Integration
+- Disqus Integration
 - Composable and extensible
 
 
@@ -126,6 +141,15 @@ If your blog is hosted on wordpress.com you will have to add few extra keys for 
 
 After completion of the build process your static site can be found in the `public/` folder. Copy those files over to your webserver.
 
+## Authors
+- Arun Priyadarshi ([@Gunnerforlife](https://github.com/Gunnerforlife)) – [Draftbox](https://draftbox.co)
+- Keyur Raval ([@thandaanda](https://github.com/thandaanda)) – [Draftbox](https://draftbox.co)
+- Shyam Lohar ([@shyamlohar](https://github.com/shyamlohar)) – [Draftbox](https://draftbox.co)
+- Tanmay Desai ([@tanmaydesai89](https://github.com/tanmaydesai89)) – [Draftbox](https://draftbox.co)
+
+## Contributions
+PRs are welcome! Consider contributing to this project if you are missing feature that is also useful for others.
+
 # Copyright & License
 
-Copyright (c) 2020 Draftbox Intelligence Inc - Released under the [MIT license](LICENSE).
+Copyright (c) 2020 [Draftbox](https://draftbox.co) - Released under the [MIT license](LICENSE).
