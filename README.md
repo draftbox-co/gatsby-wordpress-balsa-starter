@@ -10,7 +10,7 @@ Turn your WordPress blog into a lightning fast static website. This Gatsby theme
 
 ## Demo
 
-Play with the [Demo](https://wordpress-balsa.draftbox.co/) to get a first impression.
+Play with the [Demo](https://wp-balsa-preview.draftbox.co) to get a first impression.
 
 ## Features
 

@@ -1,4 +1,4 @@
-- url: https://wordpress-balsa.draftbox.co/
+- url: https://wp-balsa-preview.draftbox.co
   repo: https://github.com/draftbox-co/gatsby-wordpress-balsa-starter
   description: A Gatsby starter for creating blogs from headless WordPress CMS.
   tags:
