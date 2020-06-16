@@ -23,15 +23,15 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://wp-balsa-preview.draftbox.com/",
+        url: "https://wp-balsa-preview.draftbox.co/",
       },
       {
         label: "Contact",
-        url: "https://wp-balsa-preview.draftbox.com/contact",
+        url: "https://wp-balsa-preview.draftbox.co/contact",
       },
       {
         label: "Contact1111",
-        url: "https://wp-balsa-preview.draftbox.com/contact111",
+        url: "https://wp-balsa-preview.draftbox.co/contact111",
       },
     ],
   },
@@ -40,19 +40,19 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://wp-balsa-preview.draftbox.com/",
+        url: "https://wp-balsa-preview.draftbox.co/",
       },
       {
         label: "Sitemap",
-        url: "https://wp-balsa-preview.draftbox.com/sitemap.xml",
+        url: "https://wp-balsa-preview.draftbox.co/sitemap.xml",
       },
       {
         label: "RSS",
-        url: "https://wp-balsa-preview.draftbox.com/rss.xml",
+        url: "https://wp-balsa-preview.draftbox.co/rss.xml",
       },
       {
         label: "Contact",
-        url: "https://wp-balsa-preview.draftbox.com/contact",
+        url: "https://wp-balsa-preview.draftbox.co/contact",
       },
       {
         label: "External Link",
