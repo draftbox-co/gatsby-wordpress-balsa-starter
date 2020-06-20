@@ -29,10 +29,6 @@ module.exports = {
         label: "Contact",
         url: "https://wp-balsa-preview.draftbox.co/contact",
       },
-      {
-        label: "Contact1111",
-        url: "https://wp-balsa-preview.draftbox.co/contact111",
-      },
     ],
   },
   footer: {
