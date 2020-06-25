@@ -2,11 +2,18 @@
   repo: https://github.com/draftbox-co/gatsby-wordpress-balsa-starter
   description: A Gatsby starter for creating blogs from headless WordPress CMS.
   tags:
+    - AMP
     - Blog
-    - SEO
+    - CMS:Headless
     - CMS:WordPress
-    - Styling:Other
+    - Disqus
+    - Language:TypeScript
+    - Netlify
     - Pagination
+    - PWA
+    - RSS
+    - SEO
+    - Styling:Tailwind
   features:
     - Balsa Skin by Draftbox
     - Data sourcing from headless WordPress
