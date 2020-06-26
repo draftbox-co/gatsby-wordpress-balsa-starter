@@ -977,10 +977,10 @@
     postcss "^7.0.17"
     postcss-js "^2.0.1"
 
-"@draftbox-co/gatsby-wordpress-balsa-theme@^1.0.22":
-  version "1.0.22"
-  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-balsa-theme/-/gatsby-wordpress-balsa-theme-1.0.22.tgz#2aa69fb13d7a513ba01a94cf3958fd3bc9e72ae0"
-  integrity sha512-0+8NzwX1SYubXC+F8a6qZPTIZy4KiS+dsUDY6RE/HSNleX8bSHbOKPg7YPuTLEGTpuZKa6M3lwi8VE5uT4CkFA==
+"@draftbox-co/gatsby-wordpress-balsa-theme@^1.0.23":
+  version "1.0.23"
+  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-balsa-theme/-/gatsby-wordpress-balsa-theme-1.0.23.tgz#74ef827df2805e4466dfed51376d463c9078de8c"
+  integrity sha512-9Y9nRSM77adcq/gRH5MwgsTRuf9qmtUkPKqf8oxgyeG5k7gjRb8NmWNKB3Qu7wwBpuE1XxTuKeUyfJEWH2oPcg==
   dependencies:
     "@armada-inc/gatsby-plugin-amp" "^0.2.3"
     "@draftbox-co/gatsby-plugin-webfonts" "^1.1.3"
