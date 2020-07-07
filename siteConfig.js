@@ -1,10 +1,11 @@
 module.exports = {
-  siteUrl: "https://wp-balsa-preview.draftbox.co", // Site domain. Do not include a trailing slash!
+  siteUrl: "http://localhost:8000", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 10, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
   siteTitleMeta: "Built with Draftbox", // This allows an alternative site title for meta data for pages.
-  siteDescriptionMeta: "New-age blogging platform", // This allows an alternative site description for meta data for pages.
+  siteDescriptionMeta:
+    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
@@ -23,11 +24,11 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://wp-balsa-preview.draftbox.co/",
+        url: "https://wp-balsa-preview.draftbox.com/",
       },
       {
         label: "Contact",
-        url: "https://wp-balsa-preview.draftbox.co/contact",
+        url: "https://wp-balsa-preview.draftbox.com/contact",
       },
     ],
   },
@@ -36,19 +37,19 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://wp-balsa-preview.draftbox.co/",
+        url: "https://wp-balsa-preview.draftbox.com/",
       },
       {
         label: "Sitemap",
-        url: "https://wp-balsa-preview.draftbox.co/sitemap.xml",
+        url: "https://wp-balsa-preview.draftbox.com/sitemap.xml",
       },
       {
         label: "RSS",
-        url: "https://wp-balsa-preview.draftbox.co/rss.xml",
+        url: "https://wp-balsa-preview.draftbox.com/rss.xml",
       },
       {
         label: "Contact",
-        url: "https://wp-balsa-preview.draftbox.co/contact",
+        url: "https://wp-balsa-preview.draftbox.com/contact",
       },
       {
         label: "External Link",
@@ -67,4 +68,31 @@ module.exports = {
     title: "Contact Built with Draftbox",
     successMessage: "We’ll get in touch with you soon.",
   },
+  metadata: {
+    title: "Built with Draftbox",
+    description:
+      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+  },
+  twitterCard: {
+    title: "Built with Draftbox",
+    description:
+      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+    imageUrl: "twitterImage.png",
+    username: "@DraftboxHQ",
+  },
+  facebookCard: {
+    title: "Built with Bro",
+    description:
+      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+    imageUrl: "facebookImage.jpg",
+    appId: "2391725224459953",
+  },
+  siteTitle: "Built with Draftbox",
+  siteDescription:
+    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+  language: "en",
+  logoUrl: "logo.png",
+  iconUrl: "favicon.png",
+  coverUrl: "cover.jpg",
+  alternateLogoUrl: "logo.png",
 };
