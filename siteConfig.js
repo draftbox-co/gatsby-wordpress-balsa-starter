@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: "https://wp-balsa-preview.draftbox.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://wp-balsa-preview.draftbox.co", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 10, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
@@ -24,11 +24,11 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://wp-balsa-preview.draftbox.com/",
+        url: "https://wp-balsa-preview.draftbox.co/",
       },
       {
         label: "Contact",
-        url: "https://wp-balsa-preview.draftbox.com/contact",
+        url: "https://wp-balsa-preview.draftbox.co/contact",
       },
     ],
   },
@@ -37,19 +37,19 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://wp-balsa-preview.draftbox.com/",
+        url: "https://wp-balsa-preview.draftbox.co/",
       },
       {
         label: "Sitemap",
-        url: "https://wp-balsa-preview.draftbox.com/sitemap.xml",
+        url: "https://wp-balsa-preview.draftbox.co/sitemap.xml",
       },
       {
         label: "RSS",
-        url: "https://wp-balsa-preview.draftbox.com/rss.xml",
+        url: "https://wp-balsa-preview.draftbox.co/rss.xml",
       },
       {
         label: "Contact",
-        url: "https://wp-balsa-preview.draftbox.com/contact",
+        url: "https://wp-balsa-preview.draftbox.co/contact",
       },
       {
         label: "External Link",
