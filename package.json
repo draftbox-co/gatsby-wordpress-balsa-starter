@@ -15,7 +15,7 @@
     "react-dom": "^16.13.0"
   },
   "dependencies": {
-    "@draftbox-co/gatsby-wordpress-balsa-theme": "^1.0.36",
+    "@draftbox-co/gatsby-wordpress-balsa-theme": "^1.0.37",
     "@draftbox-co/gatsby-plugin-crisp-chat-lazy": "^0.0.3",
     "@draftbox-co/gatsby-plugin-hotjar-lazy": "^0.0.1",
     "@draftbox-co/gatsby-plugin-olark-lazy": "^0.0.1",
