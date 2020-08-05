@@ -15,7 +15,7 @@
     "react-dom": "^16.13.0"
   },
   "dependencies": {
-    "@draftbox-co/gatsby-wordpress-balsa-theme": "https://github.com/draftbox-co/gatsby-wordpress-balsa-theme/archive/draftbox-co-gatsby-wordpress-balsa-theme-v1.0.38-alpha-1-gitpkg.tar.gz",
+    "@draftbox-co/gatsby-wordpress-balsa-theme": "https://github.com/draftbox-co/gatsby-wordpress-balsa-theme/archive/draftbox-co-gatsby-wordpress-balsa-theme-v1.0.38-alpha-2-gitpkg.tar.gz",
     "@draftbox-co/gatsby-plugin-crisp-chat-lazy": "^0.0.3",
     "@draftbox-co/gatsby-plugin-hotjar-lazy": "^0.0.1",
     "@draftbox-co/gatsby-plugin-olark-lazy": "^0.0.1",
