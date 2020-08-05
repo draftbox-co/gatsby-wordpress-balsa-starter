@@ -1019,9 +1019,10 @@
     postcss "^7.0.17"
     postcss-js "^2.0.1"
 
-"@draftbox-co/gatsby-wordpress-balsa-theme@https://github.com/draftbox-co/gatsby-wordpress-balsa-theme/archive/draftbox-co-gatsby-wordpress-balsa-theme-v1.0.38-alpha-2-gitpkg.tar.gz":
-  version "1.0.38-alpha-2"
-  resolved "https://github.com/draftbox-co/gatsby-wordpress-balsa-theme/archive/draftbox-co-gatsby-wordpress-balsa-theme-v1.0.38-alpha-2-gitpkg.tar.gz#78cc0a8147705479f40ae552a7163e1efaf58061"
+"@draftbox-co/gatsby-wordpress-balsa-theme@^1.0.39":
+  version "1.0.39"
+  resolved "https://registry.yarnpkg.com/@draftbox-co/gatsby-wordpress-balsa-theme/-/gatsby-wordpress-balsa-theme-1.0.39.tgz#1b4b16214a1c344dd22923186ad53e838064b986"
+  integrity sha512-9fmQHsyPuUJe/pLSFWW3koNbzR9NTfI366n5JfcVlhp73aGdAyqQ2sVGP7bj2tKge/UrzILVeP8wvk+zaqswEA==
   dependencies:
     "@draftbox-co/gatsby-plugin-amp" "^0.2.4"
     "@draftbox-co/gatsby-plugin-css-variables" "^0.0.3"
